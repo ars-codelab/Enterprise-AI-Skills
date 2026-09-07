@@ -20,8 +20,8 @@ Each of the 13 dimensions gets scored from 0 to 10. The agent also surfaces the 
 
 ## How to use it
 
-1. Put this folder into your AI tool's skills directory.
-2. Upload a vendor proposal.
+1. Ask your AI tool to install this skill by giving it the URL of this github repo. Most AI agents and harnesses can setup and install skills from markdown files.
+2. Once the Skill is installed, upload a vendor proposal.
 3. Ask your agent to review it using the AI Proposal Advisor skill.
 4. Read the executive summary, the overall score, the blind spots, and the questions to send back.
 
