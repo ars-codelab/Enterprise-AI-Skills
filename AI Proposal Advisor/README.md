@@ -35,4 +35,4 @@ Not every question can be answered at proposal stage, and that is okay. Some thi
 
 ## License
 
-Use it, fork it, and adapt it to your context. The framework is meant to grow.
+MIT. Use it, fork it, and adapt it to your context. The framework is meant to grow.
