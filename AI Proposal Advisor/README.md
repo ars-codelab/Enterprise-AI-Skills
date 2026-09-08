@@ -8,6 +8,8 @@ This skill makes those questions routine.
 
 ![AI Vendor Proposal Evaluation Framework](assets/framework.png)
 
+Prefer the full, human-readable write-up with the rationale behind each pillar? Read [the detailed framework](FRAMEWORK.md). The `SKILL.md` file is the version your AI agent follows. This README and `FRAMEWORK.md` are for people.
+
 ## What it does
 
 You upload a vendor proposal, a RFP response, or a solution deck, and the agent works it against a structured framework of 13 questions across three pillars:
